@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "0181973c0f5e1c38",
+    "type": "split",
+    "children": [
+      {
+        "id": "05178692ceaf543c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77623574f88af812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/스프링 핵심 원리 - 기본편/Section 1/DIP.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "6d7a9fcd8528fe8d"
+          }
+        ]
+      },
+      {
+        "id": "2f63ae17ce2ff14e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98bbcf8a298df46",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spring/스프링 핵심 원리 - 기본편/Section 1/DIP.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "6d7a9fcd8528fe8d"
+          }
+        ]
+      },
+      {
+        "id": "0fc90f3468debbac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f2716aeee49eff",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spring/스프링 핵심 원리 - 기본편/Section 1/DIP.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "6d7a9fcd8528fe8d"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc395f7f130764b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "52138cb1de00c5c3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "750e763f4d5240b0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3810413c26980a9d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e4e998cf0145a4df",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b45b73fabe435858",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a8a3b051a10e8e3a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Spring/스프링 핵심 원리 - 기본편/Section 1/DIP.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "56760dd843a2d44b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Spring/스프링 핵심 원리 - 기본편/Section 1/DIP.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f637dc00bb699d27",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Spring/스프링 핵심 원리 - 기본편/Section 1/DIP.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "77623574f88af812",
+  "lastOpenFiles": [
+    "_AttatchedFiles/Pasted image 20231004062001.png",
+    "_AttatchedFiles/Pasted image 20231004061144.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 7/NoUniqueBeanDefinitionException.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 7/수동 등록 vs 자동 등록.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 7/Qualifier 애노테이션 직접 만들기.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/스프링 빈의 이벤트 라이프 사이클.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/빈 생명주기 콜백 시작.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/무제 파일.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/빈 생명 주기.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/데이터베이스 커넥션 풀.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/InitializingBean, DisposableBean.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/초기화 & 종료 메서드.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/스프링 빈의 라이프 사이클.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 4/Spring 컨테이너 생성.md",
+    "_AttatchedFiles/Pasted image 20231004064938.png",
+    "_AttatchedFiles/Pasted image 20231004062739.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/프록시 방식.md",
+    "_AttatchedFiles/Pasted image 20231004074240.png",
+    "_AttatchedFiles/Pasted image 20231004073814.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/DL.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/웹 환경 추가.md",
+    "_AttatchedFiles/Pasted image 20231004112757.png",
+    "_AttatchedFiles/Pasted image 20231004101504.png",
+    "_AttatchedFiles/Pasted image 20231004092439.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/프로토타입 스코프.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 7/조회한 빈이 모두 필요할 때.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/ScopeNotActiveException.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/Request Scope.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/JSR-330 Provider.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/ObjectProvider.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/프로토타입 스코프 문제점.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/@Scope.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/빈 스코프.md",
+    "_AttatchedFiles/Pasted image 20231004120526.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/@PostConstruct, @PreDestroy.md",
+    "_AttatchedFiles/Pasted image 20231002001249.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 4",
+    "Spring/스프링 핵심 원리 - 기본편/Section 5"
+  ]
+}

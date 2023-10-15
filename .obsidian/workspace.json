@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "1a520066cc09dba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ee93fa69fbf0325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8049c391e8d511c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/스프링 핵심 원리 - 기본편/Section 9/Request Scope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af903189977bb70d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/스프링 핵심 원리 - 기본편/Section 9/ScopeNotActiveException.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05f11431ce1a6b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/정규식 (Regular Expression).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02e09184b21e73d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/스프링 핵심 원리 - 기본편/Section 3/프레임워크 vs 라이브러리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "880c8d535ebd3e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/스프링 핵심 원리 - 기본편/Section 5/@Configuration과 바이트코드 조작의 마법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e59351966dc451c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/스프링 핵심 원리 - 기본편/Section 9/웹 환경 추가.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3760288c27b3a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "cafefa6395f85d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ba6948cab0266fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "807964b8cb5aefa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "정규식",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ed076db0463e7e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "2ad0b2438e5f2241",
+    "type": "split",
+    "children": [
+      {
+        "id": "786fdda8e7dca369",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63ffb4822dc1f1ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/정규식 (Regular Expression).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e653419efdfe2cc6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/정규식 (Regular Expression).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4636736a0c333fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4f7b15a86e1e5ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/정규식 (Regular Expression).md"
+              }
+            }
+          },
+          {
+            "id": "06fe4bb0c88ee7fe",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "05f11431ce1a6b2b",
+  "lastOpenFiles": [
+    "Spring/스프링 핵심 원리 - 기본편/스프링 핵심원리 - 기본편 - 총정리.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/@Scope.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/프록시 방식.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 3/프레임워크 vs 라이브러리.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 3/IoC.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 3/DI 컨테이너.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 5/@Configuration.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 5/@Configuration과 바이트코드 조작의 마법.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/Request Scope.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/ScopeNotActiveException.md",
+    "_AttatchedFiles/Pasted image 20231004120526.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 7/수동 등록 vs 자동 등록.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 6/컴포넌트 스캔 기본 대상.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/웹 스코프.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/웹 환경 추가.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 5/싱글톤 방식의 주의점.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 4/스프링 빈 조회.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/빈 스코프.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/JSR-330 Provider.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/Provider.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/프로토타입 스코프.md",
+    "_AttatchedFiles/Pasted image 20231004112757.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/ObjectProvider.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/DL.md",
+    "_AttatchedFiles/Pasted image 20231004101504.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9/프로토타입 스코프 문제점.md",
+    "_AttatchedFiles/Pasted image 20231004092439.png",
+    "_AttatchedFiles/Pasted image 20231004092257.png",
+    "_AttatchedFiles/Pasted image 20231004074240.png",
+    "_AttatchedFiles/Pasted image 20231004073814.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8/@PostConstruct, @PreDestroy.md",
+    "Spring/스프링 핵심 원리 - 기본편/Section 5/싱글톤 컨테이너.md",
+    "_AttatchedFiles/Pasted image 20231004064938.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 6/컴포넌트 스캔 필터.md",
+    "Spring/무제 파일.canvas",
+    "Spring/스프링 핵심 원리 - 기본편/Section 9",
+    "_AttatchedFiles/Pasted image 20231004062739.png",
+    "_AttatchedFiles/Pasted image 20231004062001.png",
+    "Spring/스프링 핵심 원리 - 기본편/Section 8",
+    "Spring/스프링 핵심 원리 - 기본편/Section 7",
+    "Spring/스프링 핵심 원리 - 기본편/Section 6",
+    "Spring/스프링 핵심 원리 - 기본편/Section 5",
+    "Spring/스프링 핵심 원리 - 기본편/Section 4",
+    "IntelliJ 단축키",
+    "Spring/스프링 핵심 원리 - 기본편/Section 3",
+    "Spring/스프링 핵심 원리 - 기본편/Section 2",
+    "Spring/스프링 핵심 원리 - 기본편/Section 1",
+    "무제 파일.canvas"
+  ]
+}

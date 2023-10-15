@@ -1,0 +1,2 @@
+- isSameAs: '\==' 비교 (순수 비교) (레퍼런스 값 등)
+- isEqualTo: 'equals' 메서드 (엄밀한 비교)
